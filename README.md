@@ -1,0 +1,2 @@
+# ingresodeohogares
+Trabajo estadístico.
